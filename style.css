@@ -53,3 +53,17 @@ h2 {
     background-repeat: no-repeat;
     background-position: left;
 }
+#baby-dev-experince {
+    border-left: 10px solid;
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 1;
+}
+#pro-dev-experince {
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,lightblue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: rgb(105, 105, 105);
+}
